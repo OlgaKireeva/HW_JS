@@ -1,4 +1,3 @@
-
 var test = "Earth";
 console.log(test);
 
